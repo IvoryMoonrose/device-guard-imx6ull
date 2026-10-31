@@ -1,0 +1,12 @@
+{
+  "file_pid": [
+    2059
+  ],
+  "three_apps_resident": true,
+  "notepad_pid": [
+    2067
+  ],
+  "notepad_editor_retained_visual_evidence": "v2_note_resumed.png",
+  "task_end_exits_notepad": true,
+  "file_directory_bytes_retained": true
+}

@@ -1,0 +1,87 @@
+[
+  {
+    "name": "replay source and indicators disabled",
+    "detail": null,
+    "passed": true
+  },
+  {
+    "name": "arming before calibration rejected",
+    "detail": null,
+    "passed": true
+  },
+  {
+    "name": "invalid settings rejected",
+    "detail": null,
+    "passed": true
+  },
+  {
+    "name": "static calibration accepted",
+    "detail": null,
+    "passed": true
+  },
+  {
+    "name": "arming countdown completes",
+    "detail": null,
+    "passed": true
+  },
+  {
+    "name": "short tap does not alarm",
+    "detail": null,
+    "passed": true
+  },
+  {
+    "name": "sustained tilt latches alarm",
+    "detail": 28.0,
+    "passed": true
+  },
+  {
+    "name": "mute retains alarm",
+    "detail": null,
+    "passed": true
+  },
+  {
+    "name": "event includes pre and post samples",
+    "detail": 29,
+    "passed": true
+  },
+  {
+    "name": "disarm acknowledges event",
+    "detail": null,
+    "passed": true
+  },
+  {
+    "name": "CSV exports labelled source",
+    "detail": null,
+    "passed": true
+  },
+  {
+    "name": "CSV file created",
+    "detail": null,
+    "passed": true
+  },
+  {
+    "name": "data loss enters fault",
+    "detail": null,
+    "passed": true
+  },
+  {
+    "name": "recovery does not rearm",
+    "detail": null,
+    "passed": true
+  },
+  {
+    "name": "restart retains events and settings",
+    "detail": null,
+    "passed": true
+  },
+  {
+    "name": "historical event can be acknowledged after restart",
+    "detail": null,
+    "passed": true
+  },
+  {
+    "name": "replay records never become hardware",
+    "detail": null,
+    "passed": true
+  }
+]

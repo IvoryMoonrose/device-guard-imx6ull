@@ -1,0 +1,19 @@
+test_calibration_accepts_different_orientation (__main__.EngineTests) ... ok
+test_configuration_rejects_bad_values (__main__.EngineTests) ... ok
+test_countdown_does_not_alarm (__main__.EngineTests) ... ok
+test_fault_and_recovery_never_rearms (__main__.EngineTests) ... ok
+test_invalid_acceleration_rejected (__main__.EngineTests) ... ok
+test_moving_calibration_rejected (__main__.EngineTests) ... ok
+test_requires_calibration (__main__.EngineTests) ... ok
+test_short_tap_not_accumulated (__main__.EngineTests) ... ok
+test_static_twenty_seconds_no_alarm (__main__.EngineTests) ... ok
+test_sustained_rotation (__main__.EngineTests) ... ok
+test_sustained_tilt_and_latched_alarm (__main__.EngineTests) ... ok
+test_configuration_round_trip (__main__.PersistenceTests) ... ok
+test_events_survive_reopen_and_source_is_preserved (__main__.PersistenceTests) ... ok
+test_native_sqlite_binding_unicode_null_float (__main__.PersistenceTests) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 5.243s
+
+OK

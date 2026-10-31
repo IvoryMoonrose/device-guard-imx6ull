@@ -1,0 +1,29 @@
+[
+  {
+    "run": 1,
+    "first_frame_s": 2.883,
+    "service_s": 3.5880000000000001,
+    "paused_factory_gui_count": 3,
+    "ui_data_s": 3.8399999999999999,
+    "source": "hardware",
+    "launcher_s": 0.20399999999999999
+  },
+  {
+    "run": 2,
+    "first_frame_s": 2.8620000000000001,
+    "service_s": 3.613,
+    "paused_factory_gui_count": 3,
+    "ui_data_s": 3.8220000000000001,
+    "source": "hardware",
+    "launcher_s": 0.221
+  },
+  {
+    "run": 3,
+    "first_frame_s": 2.8759999999999999,
+    "service_s": 3.6240000000000001,
+    "paused_factory_gui_count": 3,
+    "ui_data_s": 3.8039999999999998,
+    "source": "hardware",
+    "launcher_s": 0.224
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "background_continues_sampling": true,
+  "same_launcher_pid": 1040,
+  "same_view_pid": 1043,
+  "resume_foregrounds_same_process": true,
+  "samples_before": 5240,
+  "samples_background": 5333
+}

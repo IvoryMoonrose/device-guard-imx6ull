@@ -1,0 +1,19 @@
+test_calibration_accepts_different_orientation (__main__.EngineTests.test_calibration_accepts_different_orientation) ... ok
+test_configuration_rejects_bad_values (__main__.EngineTests.test_configuration_rejects_bad_values) ... ok
+test_countdown_does_not_alarm (__main__.EngineTests.test_countdown_does_not_alarm) ... ok
+test_fault_and_recovery_never_rearms (__main__.EngineTests.test_fault_and_recovery_never_rearms) ... ok
+test_invalid_acceleration_rejected (__main__.EngineTests.test_invalid_acceleration_rejected) ... ok
+test_moving_calibration_rejected (__main__.EngineTests.test_moving_calibration_rejected) ... ok
+test_requires_calibration (__main__.EngineTests.test_requires_calibration) ... ok
+test_short_tap_not_accumulated (__main__.EngineTests.test_short_tap_not_accumulated) ... ok
+test_static_twenty_seconds_no_alarm (__main__.EngineTests.test_static_twenty_seconds_no_alarm) ... ok
+test_sustained_rotation (__main__.EngineTests.test_sustained_rotation) ... ok
+test_sustained_tilt_and_latched_alarm (__main__.EngineTests.test_sustained_tilt_and_latched_alarm) ... ok
+test_configuration_round_trip (__main__.PersistenceTests.test_configuration_round_trip) ... ok
+test_events_survive_reopen_and_source_is_preserved (__main__.PersistenceTests.test_events_survive_reopen_and_source_is_preserved) ... ok
+test_native_sqlite_binding_unicode_null_float (__main__.PersistenceTests.test_native_sqlite_binding_unicode_null_float) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.036s
+
+OK

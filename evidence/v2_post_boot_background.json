@@ -1,0 +1,9 @@
+{
+  "task_end_exits_process": true,
+  "sidebar_in_factory_app_after_boot": true,
+  "led_pid_before_home": [
+    729
+  ],
+  "task_row_refreshes_automatically": true,
+  "same_pid_after_home": true
+}

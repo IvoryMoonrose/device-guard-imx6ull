@@ -1,0 +1,11 @@
+{
+  "home_environment": "HOME=/",
+  "before_boot_id": "57a6f4fd-6e79-4cd8-b71b-3e840f7e1a14",
+  "after_boot_id": "88919a0f-f963-4fb5-a91a-36cecc937998",
+  "dock_config_empty": true,
+  "sixteen_icons_same_framebuffer": true,
+  "full_kernel_reboot": true,
+  "no_blank_page_after_swipes": true,
+  "cache_namespace_fixed": true,
+  "sidebar_same_framebuffer": true
+}
