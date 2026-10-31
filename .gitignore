@@ -21,3 +21,6 @@ system_desktop/theme_v1/payload/apps/
 system_desktop/theme_v1/payload/bin/
 system_desktop/theme_v1/cache/
 *.tar.gz
+/docs/*.docx
+/docs/课程报告.md
+/docs/项目自评.txt
